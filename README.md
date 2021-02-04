@@ -2,5 +2,5 @@
 
 Awal mula belajar android 
 
-[https://github.com/Dhino12/Android-Dev-Seasons-2](Seasons 1) >>>>>
+[Seasons 1](https://github.com/Dhino12/Android-Dev-Seasons-2) >>>>>
 
