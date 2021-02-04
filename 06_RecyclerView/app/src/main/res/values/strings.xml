@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My RecyclerView</string>
+    <string name="heroes_name">Ki Hajar Dewantara</string>
+    <string name="detail">Seorang tokoh pendidikan Indonesia</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Share">Share</string>
+</resources>

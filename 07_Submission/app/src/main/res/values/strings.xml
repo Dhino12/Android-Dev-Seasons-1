@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Submission</string>
+
+    <string name="keterangan">Sekolah yang terletak diJakarta Pusat yang khusus untuk Teknologi Informasi </string>
+    <string name="nama_sekolah">SMK Perguruan Rakyat 2</string>
+    <string name="akreditasi">Akreditasi : A</string>
+    <string name="jurusan">Jurusan: Teknologi Jaringan</string>
+    <string name="Activity2_Akreditasi">B</string>
+    <string name="Activity2_Jurusan">Teknik Komputer Jaringan</string>
+    <string name="website">Website</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="alamat_Sekolah">Jl.AD Lampiri 28 Kel: Pondok Kelapa, Kec: Duren Sawit Provinsi: D.K.I.JAKARTA</string>
+    <string name="contact_sekolah">02186907118</string>
+    <string name="deskripsi_Sekolah">SMK Perguruan Rakyat 2 suatu sekolah yang terletak di Jl.AD Lampiri Pondok Kelapa RT/RW: 4/12 yang didirikan 2014-01-09 oleh bpk.H.Rizal Sudarmadi,SH, sekolah yang satu ini sangat lengkat dengan sopan, santun, sapa, salam. Sekolah ini juga akan mengajarkan kamu agar menjadi santun dalam menjadi siswa, seperti semboyannya Mencetak Generasi Berakhlak Mulia</string>
+    <string name="about">Tentang</string>
+    <string name="myName">Dhino Rahmad Kusuma</string>
+    <string name="myEmail">dhinorahmad0@gmail.com</string>
+</resources>
